@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/freemarker-2.3.16.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/javassist-3.7.ga.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/ognl-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-aop-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-asm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-aspects-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-beans-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-context-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-context-support-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-core-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-expression-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-instrument-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-instrument-tomcat-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-jdbc-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-jms-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-orm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-oxm-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-struts-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-test-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-tx-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-web-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-webmvc-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/spring-webmvc-portlet-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="E:/spring mvc学习实例/mvc/xwork-core-2.2.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
